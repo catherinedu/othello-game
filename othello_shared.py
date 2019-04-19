@@ -1,11 +1,9 @@
 """
-COMS W4701 Artificial Intelligence - Programming Homework 2
 
 This module contains functions that are accessed by the game manager
 and by the each AI player. Feel free to call these functions when 
 building your AIs. 
-
-@author: Daniel Bauer 
+ 
 """
 
 def find_lines(board, i, j, player):
