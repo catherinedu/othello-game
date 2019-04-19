@@ -1,12 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-COMS W4701 Artificial Intelligence - Programming Homework 2
 
 This module contains the main Othello game which maintains the board, score, and 
 players.  
 
-@author: Daniel Bauer 
 """
 import sys
 import subprocess
